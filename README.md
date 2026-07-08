@@ -14,15 +14,14 @@
 
 ## GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carston23&show_icons=true&theme=tokyonight&hide_border=true" alt="Carston23's GitHub stats"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carston23&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Carston23&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
+![GitHub Stats](https://github-readmep/api?username=Carston23&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://githubcel.app/api/top-langs/?username=Carston23&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Carston23&theme=tokyonight&hide_border=true)
+
+
 
 
 ---
