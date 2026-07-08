@@ -17,9 +17,24 @@
 
 <div align="center">
 
-  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Carston23&theme=nord_dark" alt = "Top Language by Repo"/>
 
-  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carston23&theme=nord_dark" alt = "Top Language by Commit"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/apiicons=true&theme=tokyonight&rank_icon=github
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theme=tokyonight
+</p>
+
+<p align="center">
+  -stats.demolab.com?user=Carston23&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activitycel.app/graph?username=Carston23&theme=tokyo-night
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username&theme=tokyonight&no-frame=true&row=1&column=6
+</p>
+
 
 </div>
 
