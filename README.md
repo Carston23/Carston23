@@ -15,10 +15,8 @@
 ## GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/Carston23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carston23&theme=nord&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carston23&theme=nord&layout=compact&hide_border=true" alt="Top Languages"/>
-  </a>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Carston23&theme=nord&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carston23&theme=nord&layout=compact&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
