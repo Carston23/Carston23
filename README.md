@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
+  <h1>Carston Nicholson</h1>
+</div>
 
-<!--
-**Carston23/Carston23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cnicho&theme=nord&show_icons=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnicho&theme=nord&layout=compact" alt="Top Languages"/>
+</div>
+
+---
+
+## Featured Projects
+
+- **[GitHub Copilot Metrics Reporting](https://github.com/Carston23/Metrics-Reporting-GitHub-Copilot)** - This project calls a REST API to get basic GitHub copilot usage data for an enterprise. An email is then sent out with a summary of the relevent information.
+- **[Removing Stale Users from a GitHub Org](https://github.com/Carston23/Remove-Stale-GitHub-Users)** - This project calls REST APIs and a GRAPHQL API to get user SSO IDs from Github and compare them to Azure Entra IDs in order to find stale users in a GitHub Organization and remove them.
+
