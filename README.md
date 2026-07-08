@@ -17,10 +17,6 @@
 
 <div align="center">
 
-  <img src = "https://streak-stats.demolab.com?user=Carston23&theme=nord" alt = "Description of contributions"/>
-
-  <br><br>
-
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Carston23&theme=nord_dark" alt = "Top Language by Repo"/>
 
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carston23&theme=nord_dark" alt = "Top Language by Commit"/>
