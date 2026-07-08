@@ -17,13 +17,13 @@
 
 <div align="center">
 
-  https://streak-stats.demolab.com?user=Carston23&theme=nord
+  <img src = "https://streak-stats.demolab.com?user=Carston23&theme=nord" alt = "Description of contributions"/>
 
   <br><br>
 
-  https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Carston23&theme=nord_dark
+  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Carston23&theme=nord_dark" alt = "Top Language by Repo"/>
 
-  https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carston23&theme=nord_dark
+  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carston23&theme=nord_dark" alt = "Top Language by Commit"/>
 
 </div>
 
