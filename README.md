@@ -14,20 +14,21 @@
 
 ## GitHub Statistics
 
+<p align="center">
+  <img src = github-readme-stats.vercel.app/api?username=Carston23&show_icons=true&theme=tokyonight&rank_icon=github"
+    height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carston23t&theme=tokyonight/>
+</p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Carston23ght/>
+</p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/apiicons=true&theme=tokyonight&rank_icon=github
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theme=tokyonight
-</p>
-<p align="center">
-  -stats.demolab.com?user=Carston23&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activitycel.app/graph?username=Carston23&theme=tokyo-night
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username&theme=tokyonight&no-frame=true&row=1&column=6
+  <img
+    src="https://github-readme-.vercel.app/graph?username=Carston23&theme=tokyo-night/>
 </p>
 
 
