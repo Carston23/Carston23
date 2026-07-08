@@ -16,11 +16,10 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carston23t&theme=tokyonight/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carston23t&theme=tokyonight"/>
   <img
-    src="https://streak-stats.demolab.com?user=Carston23ght/>
-  <img
-    src="https://github-readme-.vercel.app/graph?username=Carston23&theme=tokyo-night/>
+    src="https://streak-stats.demolab.com?user=Carston23ght"/>
+  <img src="https://github-readme-.vercel.app/graph?username=Carston23&theme=tokyo-night"/>
 </div>
 
 
