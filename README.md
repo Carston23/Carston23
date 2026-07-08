@@ -15,8 +15,8 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cnicho&theme=nord&show_icons=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnicho&theme=nord&layout=compact" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carston23&theme=nord&show_icons=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carston23&theme=nord&layout=compact" alt="Top Languages"/>
 </div>
 
 ---
