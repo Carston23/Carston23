@@ -14,10 +14,19 @@
 
 ## GitHub Statistics
 
+
 <div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Carston23&theme=nord&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carston23&theme=nord&layout=compact&hide_border=true" alt="Top Languages"/>
+
+  https://streak-stats.demolab.com?user=Carston23&theme=nord
+
+  <br><br>
+
+  https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Carston23&theme=nord_dark
+
+  https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carston23&theme=nord_dark
+
 </div>
+
 
 ---
 
