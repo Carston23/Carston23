@@ -15,11 +15,13 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carston23t&theme=tokyonight"/>
-  <img
-    src="https://streak-stats.demolab.com?user=Carston23ght"/>
-  <img src="https://github-readme-.vercel.app/graph?username=Carston23&theme=tokyo-night"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carston23&show_icons=true&theme=tokyonight&hide_border=true" alt="Carston23's GitHub stats"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carston23&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Carston23&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 
