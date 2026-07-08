@@ -15,12 +15,12 @@
 ## GitHub Statistics
 
 
-![GitHub Stats](https://github-readmep/api?username=Carston23&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://githubcel.app/api/top-langs/?username=Carston23&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Carston23&theme=tokyonight&hide_border=true)
-
+<div align="center">
+    
+  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carston23&theme=dracula) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carston23&theme=dracula)
+  
+  ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carston23&theme=dracula)
+</div>
 
 
 
