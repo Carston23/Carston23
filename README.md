@@ -10,19 +10,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
----
-
-## GitHub Statistics
-
-
-<div align="center">
-    
-  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carston23&theme=dracula) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carston23&theme=dracula)
-  
-  ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carston23&theme=dracula)
-</div>
-
-
 
 ---
 
